@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T13:26:54.712Z" agent="5.0 (X11)" etag="PY7BzOyV_vohpzOg2WuC" version="14.6.3" type="github"><diagram id="HvqQM-I7t3wVY7urHc3_" name="Page-1">7Vhdb5swFP01kbYHJIOBpI9NmnZSt0lVO7V7NGDAq8HUmCTk18/GJkDJ0lTbulQaD4DPvf64555rnEzgIttccVSkX1iE6cQB0WYCLyaOM/Nn8q6AWgMuPNNAwkmkIbsDbskWGxAYtCIRLgeOgjEqSDEEQ5bnOBQDDHHO1kO3mNHhrAVK8Ai4DREdo/ckEqkJywMd/gmTJG1ntoGxZKh1NkCZooitexBcTuCCMyb0W7ZZYKq4a3nR/S5/Yd0tjONcHNPBXS7vNuf1RXFzv7gG3N1+TZHl6lFWiFYmYLNYUbcM4EgSYpqMi5QlLEd02aFzzqo8wmoaIFudz2fGCgnaEvyBhahNdlElmIRSkVFjHYdioitZxUN8YP2tJBBPsDjgZ8JSsfQmMERdYZZhwWvpwDFFgqyGyUdGQ8nOr6NZvhimX8G6fQTrlEqJK3bXKRH4tkAND2tZZEPuUFlo3cdko3IwjwmlC0YZbwaCoLkOkbzCXODNQVqM1fN0j3pYo+uuMFoo7dcE+H0ab8S3GU1ukO1tLx+/k6fru4f6KBpPWbzOkeKFJyVeZ8T6ImVMSlXO1WzEFVeNZ4noaLZf1vQzCV8215+RcCtGI2F/n4T3aNj9Wxp+7xswHGt4b5ynpWG4h3WfyvXPywLlA/r9p0p9oecxy4VVNgSeSwfbLoR8NNyBxhajjNBaW2U3lBWNEUJX7dKcIDpCdwOEWuyqK0+CD6AZQoYGem8fd94BCh+TJudWr6PgKC9NCgcLWxsdKydXj9gZTaDKljOeqUX2zSu18FzsdZAVJ6wIh4zLjLG89cnxzkOVJZFnKQtRkhiHAJWYEuXUMtslq0UiFpYWyQXmUsSWOgJaIbKjMMSuNY3j2HKmyLXCAJ1ZgTP1oW3Lw48T9Yf0E/W8IGVBUW22JkpKRQ2L5e2pItutPFiatEsV6czrfqe7fXkv71+O94b71/9Kem+VFJ8FIAZToCsp9sHUAj5wLewFQYS9yPdCZ1xJ+htfmkpS1aPWzZqt/xG/tzKCRxwD3rSMvJePATxlWVCV/5Q3d/aMN2/EG9xzeoKvp002u5/Gja33/wJc/gQ=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-21T13:39:19.475Z" agent="5.0 (X11)" etag="3pwSwOq1AEvJq38S1hdN" version="14.6.3" type="github">
+  <diagram id="HvqQM-I7t3wVY7urHc3_" name="Page-1">
+    <mxGraphModel dx="1021" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4EETxAyDpQWCK0r4zNha-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4EETxAyDpQWCK0r4zNha-1" target="4EETxAyDpQWCK0r4zNha-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EETxAyDpQWCK0r4zNha-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="55" y="70" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QtU8lgQa15zFkYiqKTXy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4EETxAyDpQWCK0r4zNha-2" target="4EETxAyDpQWCK0r4zNha-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EETxAyDpQWCK0r4zNha-2" value="Choose a course" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="10" y="110" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QtU8lgQa15zFkYiqKTXy-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4EETxAyDpQWCK0r4zNha-3" target="QtU8lgQa15zFkYiqKTXy-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4EETxAyDpQWCK0r4zNha-3" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-ca1dcce4-7fff-27a4-cba9-b2763112202d&quot;&gt;Display a list of quizzes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="140" y="110" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QtU8lgQa15zFkYiqKTXy-3" target="QtU8lgQa15zFkYiqKTXy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QtU8lgQa15zFkYiqKTXy-3" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-f9b0f070-7fff-f607-0604-e5bbde5d65c2&quot;&gt;Choose a quiz to take&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="300" y="110" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="470" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-7" value="" style="group" vertex="1" connectable="0" parent="EMLoT_DQCo54XdzdIxfW-4">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QtU8lgQa15zFkYiqKTXy-5" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="EMLoT_DQCo54XdzdIxfW-7" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="EMLoT_DQCo54XdzdIxfW-7">
+          <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-9" target="EMLoT_DQCo54XdzdIxfW-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-9" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-7c33a0d0-7fff-b234-5660-c0ef3cbe4906&quot;&gt;Check quiz open date&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="110" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtU8lgQa15zFkYiqKTXy-5" target="EMLoT_DQCo54XdzdIxfW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-11" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-7c33a0d0-7fff-b234-5660-c0ef3cbe4906&quot;&gt;[ questions &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-7c33a0d0-7fff-b234-5660-c0ef3cbe4906&quot;&gt;uploaded ]&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EMLoT_DQCo54XdzdIxfW-10">
+          <mxGeometry x="-0.3" y="-2" relative="1" as="geometry">
+            <mxPoint x="5" y="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-12" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-cef091fc-7fff-853b-4662-05197f052c5b&quot;&gt;Displays “No questions have been added yet”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="416.25" y="10" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="770" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-14" value="" style="group" vertex="1" connectable="0" parent="EMLoT_DQCo54XdzdIxfW-13">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-15" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="EMLoT_DQCo54XdzdIxfW-14">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="EMLoT_DQCo54XdzdIxfW-14">
+          <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QtU8lgQa15zFkYiqKTXy-5" target="EMLoT_DQCo54XdzdIxfW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-7c33a0d0-7fff-b234-5660-c0ef3cbe4906&quot;&gt;[ questions not &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-7c33a0d0-7fff-b234-5660-c0ef3cbe4906&quot;&gt;uploaded ]&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-20" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-cef091fc-7fff-853b-4662-05197f052c5b&quot;&gt;Displays “No questions have been added yet”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="10" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-15" target="EMLoT_DQCo54XdzdIxfW-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="135" />
+              <mxPoint x="810" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
