@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T14:15:30.946Z" agent="5.0 (X11)" etag="90QAkxPaYiE9fiIZvfwF" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T14:19:22.300Z" agent="5.0 (X11)" etag="a8_puA7qZp4I9VzZbN4P" version="14.6.3" type="github">
   <diagram id="HvqQM-I7t3wVY7urHc3_" name="Page-1">
     <mxGraphModel dx="1021" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,14 +202,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-60" target="EMLoT_DQCo54XdzdIxfW-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EMLoT_DQCo54XdzdIxfW-60" value="D&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-01c487bf-7fff-c4a9-d6eb-bbfb4ede4df8&quot;&gt;isplay quiz questions&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="30" y="350" width="100" height="45" as="geometry" />
+          <mxGeometry x="30" y="350" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EMLoT_DQCo54XdzdIxfW-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-64" target="EMLoT_DQCo54XdzdIxfW-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMLoT_DQCo54XdzdIxfW-64" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-30" y="260" width="135" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-81" target="EMLoT_DQCo54XdzdIxfW-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-81" value="&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot; id=&quot;docs-internal-guid-4bcfa4be-7fff-c79c-a2d7-36e345839ab0&quot;&gt;Choose answer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="165" y="350" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-83" value="&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.38 ; margin-top: 0pt ; margin-bottom: 0pt&quot; id=&quot;docs-internal-guid-7ea3b794-7fff-0b93-720c-399a96a18e8a&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; font-weight: 400 ; font-style: normal ; font-variant: normal ; text-decoration: none ; vertical-align: baseline&quot;&gt;Display answer sheet.&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="265" y="270" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-84" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="299.99999999999994" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-85" value="" style="group" vertex="1" connectable="0" parent="EMLoT_DQCo54XdzdIxfW-84">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-86" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="EMLoT_DQCo54XdzdIxfW-85">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="EMLoT_DQCo54XdzdIxfW-85">
+          <mxGeometry x="10" y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="EMLoT_DQCo54XdzdIxfW-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EMLoT_DQCo54XdzdIxfW-86" target="EMLoT_DQCo54XdzdIxfW-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
